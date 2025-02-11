@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baljyot Parmar</h1>
-<h3 align="center">A passionate developer from Canada</h3>
+<h3 align="center">A passionate developer based in Toronto, Canada</h3>
 
 - 🔭 I’m currently working on:
     - [Advanced fluorescence Microscopy Simulations](https://github.com/joemans3/AMS_BP)
@@ -11,6 +11,10 @@
     - [Opinionated Style Guide for Creating Journal-Ready Figures using Matplotlib](https://github.com/joemans3/JournalPlots)
     - [Python Client for FPBase with Local SQLite Caching](https://github.com/joemans3/fpbase-client)
     - [Monty Hall Simulation - The General Case](https://github.com/joemans3/General_Monty_Hall_Sim)
+
+<h4 align="left">Connect with me on Linkedin:</h4>
+
+- [Baljyot Parmar](www.linkedin.com/in/baljyot-parmar-phd-b16160bb)
 
 
 <h3 align="left">Languages and Tools:</h3>
