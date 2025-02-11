@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Baljyot</h1>
 
-I have a physics PhD specializing in computational biology and advanced microscopy techniques. My technical expertise spans multiple programming languages (Python, C++, SQL) and machine learning frameworks (TensorFlow, Scikit-learn), with a strong foundation in software development practices including version control and CI/CD pipelines.
+I have a physics PhD (McGill University) specializing in computational biology and advanced microscopy techniques. My technical expertise spans multiple programming languages (Python, C++, SQL) and machine learning frameworks (TensorFlow, Scikit-learn), with a strong foundation in software development practices including version control and CI/CD pipelines.
 I'm passionate about bridging the gap between theoretical physics and biological systems. I'm always seeking new challenges that combine computational innovation with biological discovery.
 
 - 🔭 I’m currently working on:
