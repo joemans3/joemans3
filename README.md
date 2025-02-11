@@ -13,6 +13,11 @@ I'm passionate about bridging the gap between theoretical physics and biological
     - [Opinionated Style Guide for Creating Journal-Ready Figures using Matplotlib](https://github.com/joemans3/JournalPlots)
     - [Python Client for FPBase with Local SQLite Caching](https://github.com/joemans3/fpbase-client)
     - [Monty Hall Simulation - The General Case](https://github.com/joemans3/General_Monty_Hall_Sim)
+- The following repositories need a facelift ;) :
+    - [Polymer Folding and Clusters Simulations](https://github.com/joemans3/Polymer_Weberlab)
+    - [Colocalization Analysis in Microscopy Images](https://github.com/joemans3/CoLocalization)
+    - [Image-Based Cross Correlation Analysis for Multi-Channel Microscopy Data](https://github.com/joemans3/Image_Cross_Correlation)
+
 
 <h4 align="left">Connect with me on Linkedin:</h4>
 
