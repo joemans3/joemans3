@@ -21,7 +21,7 @@ I'm passionate about bridging the gap between theoretical physics and biological
 
 <h4 align="left">Connect with me on Linkedin:</h4>
 
-- [Baljyot Parmar](www.linkedin.com/in/baljyot-parmar-phd-b16160bb)
+- [Baljyot Parmar](https://www.linkedin.com/in/baljyot-parmar-phd-b16160bb)
 
 
 <h3 align="left">Languages and Tools:</h3>
