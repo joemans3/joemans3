@@ -7,6 +7,7 @@ I'm passionate about bridging the gap between theoretical physics and biological
     - [Advanced fluorescence Microscopy Simulations](https://github.com/joemans3/AMS_BP)
 - I'm currently maintaining:
     - [Single Molecule Simulations](https://github.com/joemans3/SMS_BP)
+    - [Simulate Multi-Dimensional Bounded Fractional Brownian Motion with Time-Varying Diffusivity and Hurst Exponent](https://github.com/joemans3/boundedfbm) 
     - [Detection of Clusters in Images](https://github.com/joemans3/Cluster_Detection)
     - [Single Molecule Gaussian Reconstructions](https://github.com/joemans3/SMRecon)
     - [Single Particle Tracking Analysis Toolkit](https://github.com/joemans3/SPTanalysis)
